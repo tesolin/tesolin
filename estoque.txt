@@ -1,0 +1,4 @@
+cama
+10
+lampião
+5
